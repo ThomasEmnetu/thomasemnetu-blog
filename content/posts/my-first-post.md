@@ -1,5 +1,5 @@
 ---
-date: '2025-04-06T23:14:55-07:00'
+date: '2025-04-07T08:30:00-07:00'
 draft: false
 title: "AI is Decoupling From Ethics: Why should you care?"
 tags: ["AI", "Ethics", "Data", "Opinion"]
