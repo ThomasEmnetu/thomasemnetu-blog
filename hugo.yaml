@@ -1,0 +1,27 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Thomas' Blog
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: "Thomas Emnetu: Design + AI"
+    Content: "Exploring how rapid AI advancements are challenging ethical boundaries and what it means for the future of design, data, and responsibility."
+
+  profileMode:
+    enabled: false
+  mainSections: ["posts"]
+  disableSpecial1stPost: false
+  ShowReadingTime: true
+  ShowAuthor: true
+  ShowDate: true
+  ShowPostNavLinks: true
+  showBreadCrumbs: true
+  socialIcons:
+    - name: "twitter"
+      url: "https://x.com/Thomasemn"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/thomasemnetu"
+    - name: "link"
+      url: "https://linktr.ee/uncutdesign"
+    - name: "email"
+      url: "mailto:thomasemnetu@icloud.com"
