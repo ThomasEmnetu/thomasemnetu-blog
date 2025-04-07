@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: "Thomas Emnetu: Design + AI"
-    Content: "Exploring how rapid AI advancements are challenging ethical boundaries and what it means for the future of design, data, and responsibility."
+    Content: "Actively challenging my biases. Building software that matters on a human level. Writing about the evolving relationship between humans and the digital tools we create."
 
   profileMode:
     enabled: false
