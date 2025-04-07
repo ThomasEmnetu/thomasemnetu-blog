@@ -59,7 +59,7 @@ A future where these corporations feel entitled to do as they please with data t
 
 ## This is not just an opinion
 
-[OpenAI added over 1M paying users in a single hour](https://www.theverge.com/openai/639960/chatgpt-added-one-million-users-in-the-last-hour) after Studio Ghibli-style images generated with GPT-4o started trending everywhere. The biggest spike in paid users since the launch of their paid plan. Which [ultimately allowed them to raise $40B at a $300B valuation a week later.](https://medium.com/r?url=https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
+[OpenAI added over 1M paying users in a single hour](https://www.theverge.com/openai/639960/chatgpt-added-one-million-users-in-the-last-hour) after Studio Ghibli-style images generated with GPT-4o started trending everywhere. The biggest spike in paid users since the launch of their paid plan. Which [ultimately allowed them to raise $40B at a $300B valuation a week later.](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
 
 That should tell you everything. Most don't care how the model was trained. They care about cool outputs that grow KPIs they can brag about.
 
