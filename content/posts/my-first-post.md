@@ -6,10 +6,6 @@ tags: ["AI", "Ethics", "Data", "Opinion"]
 categories: ["AI"]
 author: ["Thomas Emnetu"]
 showToc: false
-cover:
-  image: "/images/ai-vs-ethics-cover.png"
-  alt: "Anime-style illustration of a young woman at a crossroads, choosing between 'AI' and 'ETHICS.' One path leads to a city, the other to nature. She stands still, caught between both."
-  caption: "A choice that gets more complicated the further we advance."
 ---
 ## What's currently top of mind for me:
 
