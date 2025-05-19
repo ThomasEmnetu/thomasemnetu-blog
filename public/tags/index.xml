@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Thomas' Blog</title><link>https://thomasemnetu.ink/tags/</link><description>Recent content in Tags on Thomas' Blog</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 08:30:00 -0700</lastBuildDate><atom:link href="https://thomasemnetu.ink/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AI</title><link>https://thomasemnetu.ink/tags/ai/</link><pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate><guid>https://thomasemnetu.ink/tags/ai/</guid><description/></item><item><title>Data</title><link>https://thomasemnetu.ink/tags/data/</link><pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate><guid>https://thomasemnetu.ink/tags/data/</guid><description/></item><item><title>Ethics</title><link>https://thomasemnetu.ink/tags/ethics/</link><pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate><guid>https://thomasemnetu.ink/tags/ethics/</guid><description/></item><item><title>Opinion</title><link>https://thomasemnetu.ink/tags/opinion/</link><pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate><guid>https://thomasemnetu.ink/tags/opinion/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Thomas&#39; Blog</title>
+    <link>https://thomasemnetu.ink/tags/</link>
+    <description>Recent content in Tags on Thomas&#39; Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 -0700</lastBuildDate>
+    <atom:link href="https://thomasemnetu.ink/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>College</title>
+      <link>https://thomasemnetu.ink/tags/college/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internship</title>
+      <link>https://thomasemnetu.ink/tags/internship/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/internship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>https://thomasemnetu.ink/tags/opinion/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://thomasemnetu.ink/tags/tech/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://thomasemnetu.ink/tags/ai/</link>
+      <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://thomasemnetu.ink/tags/data/</link>
+      <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>https://thomasemnetu.ink/tags/ethics/</link>
+      <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
+      <guid>https://thomasemnetu.ink/tags/ethics/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
