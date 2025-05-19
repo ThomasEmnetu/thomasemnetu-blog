@@ -25,10 +25,10 @@ jobs:
         with:
           hugo-version: '0.123.7'
 
-      - name: Build
+      - name: Build site
         run: hugo --minify
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
