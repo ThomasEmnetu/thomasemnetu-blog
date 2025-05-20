@@ -45,7 +45,7 @@ That is the million dollar question.
 
 And nobody has the one-size-fits all answer. 
 
-I used to think the game was about checking boxes. Now I know it’s about telling a story that makes people stop scrolling.
+I used to think the game was about checking boxes. Now I know it’s about telling a story that makes the right people stop scrolling.
 
 And that takes real self-reflection. Not the fake 2am dopamine hit you get from watching a motivational TikTok. 
 
@@ -53,8 +53,7 @@ What about your lived experiences makes you an irresistible hire?
 
 It’s a hard question. But if you don’t have an answer, someone else already does. And they’re miles ahead of you.
 
-
-## How bad do you truly want it?
+## How bad do you want it?
 
 Odds are not in your favor. 
 
@@ -80,33 +79,57 @@ It's the unfortunate reality we’re living in, and the uncomfortable truth that
 
 “Reorg” is just corporate-speak for you’re replaceable.
 
-The only real defense is to stay sharp. Stay hungry. 
+The only real defense is to stay sharp. Stay hungry.
 
-Do the work others won’t.
+Become irreplaceable. Do the work others won’t.
 
 ## It’s a marathon, not a race.
 
 A game of endurance and obsession. Every decision compounds.
 
-So take a hard look at yourself:
+If you’re not moving forward: you’re falling behind.
 
-How bad do you want this?
+It’s not about overworking or burnout. 
+
+It’s about leaving no room for regret.
+
+Because the worst feeling isn’t rejection.
+
+It’s knowing deep down that you didn’t give it everything.
+
+That you left something on the table.
+
+That you could’ve gone harder, but didn’t.
+
+Some people can sleep at night without a plan.
+
+Some people graduate without an offer and somehow feel no urgency.
+
+But if that doesn’t sit right with you, if that terrifies you...
+
+## Maybe you’re wired for something bigger
+
+So again, take a hard look at yourself:
+
+How bad do you truly want this?
+
+What are you willing to give up?
 
 What lengths are you willing to go to, in order to achieve your dreams?
 
-The truth is, no one owes you sh*t, not even your dream job. 
+**The truth is, no one owes you sh*t, not even your dream job.**
 
 You have to earn it.
 
-And even then, complacency is a slow, silent killer.
+And even after that, you have to keep earning it.
 
-If you’re not moving forward: you’re falling behind.
+Complacency is a disease that will slowly rob you of everything you once worked for.
 
 In the words of Jay-Z: *"When others go to sleep, I start working"*
 
-So be obsessed with your craft. Rewire your brain.
+So rewire your brain. Be obsessed with progress.
 
-Progress is the new fun.
+Redefine fun as momentum toward your goals.
 
 Because nothing is truly impossible...
 
