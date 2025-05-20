@@ -1,5 +1,5 @@
 ---
-date: '2025-05-20T08:00:00-07:00'
+date: '2025-05-20T00:01:00-07:00'
 draft: false
 title: "Why most college students won’t make it in big tech"
 tags: ["Tech", "College", "Internship", "Opinion"]
