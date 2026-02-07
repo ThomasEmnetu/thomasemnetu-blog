@@ -2,6 +2,12 @@ baseURL: https://thegradient.ink/
 languageCode: en-us
 title: Gradient.
 theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   label:
     text: "Gradient."

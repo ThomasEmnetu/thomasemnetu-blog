@@ -29,3 +29,24 @@
     transform: scale(1.1);
     margin-left: -24px;
 }
+
+/* ===========================================
+   Image Captions
+   =========================================== */
+
+figure {
+    margin: 1rem 0;
+}
+
+figure img {
+    display: block;
+    margin-bottom: 0.4rem;
+}
+
+figcaption {
+    font-size: 0.85rem;
+    color: var(--secondary);
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}

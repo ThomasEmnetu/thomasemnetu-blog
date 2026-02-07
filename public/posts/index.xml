@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Thomas&#39; Blog</title>
-    <link>https://thomasemnetu.ink/posts/</link>
-    <description>Recent content in Posts on Thomas&#39; Blog</description>
+    <title>Posts on Gradient.</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Gradient.</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 00:01:00 -0700</lastBuildDate>
-    <atom:link href="https://thomasemnetu.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 01:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I’ve been drinking the AI kool-aid…and I love it</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Fri, 06 Feb 2026 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;h2 id=&#34;i-was-overly-pessimistic-about-ai-for-a-while&#34;&gt;I was overly pessimistic about AI for a while.&lt;/h2&gt;
+&lt;p&gt;I harped on the harms, ethical shortcomings, the ways this tech could be misused or cause real damage.&lt;/p&gt;
+&lt;p&gt;I still hold those concerns.&lt;/p&gt;
+&lt;p&gt;I assure you they haven&amp;rsquo;t disappeared.&lt;/p&gt;
+&lt;p&gt;But I had a profound experience this week that shifted something fundamental in how I&amp;rsquo;m thinking about this.&lt;/p&gt;
+&lt;h2 id=&#34;i-deployed-my-first-multi-agent-swarm&#34;&gt;I deployed my first multi-agent swarm&lt;/h2&gt;
+&lt;p&gt;I had a vague product idea. No detailed spec, just a rough concept.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why most college students won’t make it in big tech</title>
-      <link>https://thomasemnetu.ink/posts/my-second-post/</link>
+      <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;most-ppl-in-college-dont-deserve-big-tech-roles&#34;&gt;Most ppl in college don’t deserve big tech roles&lt;/h2&gt;
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;most-ppl-in-college-dont-deserve-big-tech-roles&#34;&gt;Most ppl in college don’t deserve big tech roles.&lt;/h2&gt;
 &lt;p&gt;That includes me. At least, the version of me I used to be.&lt;/p&gt;
 &lt;p&gt;Allow me to elaborate.&lt;/p&gt;
 &lt;p&gt;There’s a weird sense of entitlement that creeps in when you’re pursuing CS, Design, or PM in college. It’s subtle but widespread. We tell ourselves we’re meant for FAANG simply because we want it badly.&lt;/p&gt;
@@ -22,9 +35,9 @@
     </item>
     <item>
       <title>AI is Decoupling From Ethics: Why should you care?</title>
-      <link>https://thomasemnetu.ink/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;whats-currently-top-of-mind-for-me&#34;&gt;What&amp;rsquo;s currently top of mind for me:&lt;/h2&gt;
 &lt;p&gt;AI is advancing insanely fast. Faster than any of us ever expected.&lt;/p&gt;
 &lt;p&gt;The CEO of Anthropic predicted that &lt;a href=&#34;https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3&#34;&gt;by the end of 2025 over 90% of all software will be written by AI.&lt;/a&gt;&lt;/p&gt;

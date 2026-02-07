@@ -1,60 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Thomas&#39; Blog</title>
-    <link>https://thomasemnetu.ink/tags/</link>
-    <description>Recent content in Tags on Thomas&#39; Blog</description>
+    <title>Tags on Gradient.</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Gradient.</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 00:01:00 -0700</lastBuildDate>
-    <atom:link href="https://thomasemnetu.ink/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 01:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>College</title>
-      <link>https://thomasemnetu.ink/tags/college/</link>
-      <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/college/</guid>
+      <title>Dev</title>
+      <link>http://localhost:1313/tags/dev/</link>
+      <pubDate>Fri, 06 Feb 2026 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/dev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Internship</title>
-      <link>https://thomasemnetu.ink/tags/internship/</link>
-      <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/internship/</guid>
+      <title>Multi-Agents</title>
+      <link>http://localhost:1313/tags/multi-agents/</link>
+      <pubDate>Fri, 06 Feb 2026 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/multi-agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>https://thomasemnetu.ink/tags/opinion/</link>
+      <link>http://localhost:1313/tags/opinion/</link>
+      <pubDate>Fri, 06 Feb 2026 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Fri, 06 Feb 2026 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>College</title>
+      <link>http://localhost:1313/tags/college/</link>
       <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/opinion/</guid>
+      <guid>http://localhost:1313/tags/college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internship</title>
+      <link>http://localhost:1313/tags/internship/</link>
+      <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/internship/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://thomasemnetu.ink/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Tue, 20 May 2025 00:01:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/tech/</guid>
+      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://thomasemnetu.ink/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://thomasemnetu.ink/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethics</title>
-      <link>https://thomasemnetu.ink/tags/ethics/</link>
+      <link>http://localhost:1313/tags/ethics/</link>
       <pubDate>Mon, 07 Apr 2025 08:30:00 -0700</pubDate>
-      <guid>https://thomasemnetu.ink/tags/ethics/</guid>
+      <guid>http://localhost:1313/tags/ethics/</guid>
       <description></description>
     </item>
   </channel>
