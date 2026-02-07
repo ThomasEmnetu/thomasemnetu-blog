@@ -138,7 +138,7 @@ I'm more optimistic about multi-agent systems than I expected to be.
 
 But optimism without critical examination is just hype.
 
-So what I'm closely studying and paying attention to:
+So what I'm closely studying and paying attention to is:
 
 - How do these systems maintain context over longer sessions (i.e. days/weeks)?
 - What is most optimal memory architecture to enable execution of more complex work?
@@ -156,9 +156,11 @@ Right now, with the tools that exist today, anyone can semantically orchestrate 
 
 That's worth your attention. Especially if you work in tech or aspire to.
 
-The nature of the work we do is changing faster than ppl can adjust. So What does this mean?
+The nature of the work is changing faster than most can adjust. 
 
-Honestly, I'm trying to worry less about that.
+So what does this mean for us?
+
+I'm honestly trying to worry less about that.
 
 I'm much more concerned with challenging myself and feeding my curiosity, so my skills don't atrophy.  
 
