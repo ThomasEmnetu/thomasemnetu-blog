@@ -32,17 +32,17 @@ I set up a simple multi-agent system as the following:
 
 Then I stepped back.
 
-For over 30 minutes, I barely touched my keyboard; after enabling auto-approval for the session.
+For over 30 minutes, I didn't touch my keyboard; after enabling auto-approval for the session.
 
 The agents coordinated. Delegated tasks to each other. Built a database schema. Wrote frontend code. When things broke, they debugged and self-corrected.
 
-In under 60 minutes, I had a working product. Backend running, UI rendering, everything functional end-to-end.
+In under an hour, I had a working product. Backend running, UI rendering, everything functional end-to-end.
 
 I've tried AI coding tools before, but this was fundamentally different. Don't get me wrong, the output wasn't perfect production level code. But the autonomous **coordination** actually worked.
 
 ## I'm not here to be a grifter
 
-I'm not gonna say "AI will replace all developers" or "everyone can build anything now"; though the latter is becoming increasingly true.
+I'm not gonna sell you a dream that "AI will replace all developers" or "everyone can build anything now"; though the latter is becoming increasingly true.
 
 Let me be clear. The system isn't magic. It made mistakes. It wrote code that needed refactoring.
 
@@ -66,7 +66,12 @@ We often discuss AI progress in terms of model capabilities.
 
 Which frontier model reasons the best, creates the best outputs, has the highest benchmark scores, etc.
 
-But they are all so good now that you can disregard marginal gains one may receive by using a specific LLM. 
+But they've improved so much in the past 12 months, that you can disregard any marginal gains you may receive by using a specific LLM. 
+
+<figure>
+  <img src="/images/best-in-agentic-coding.png" alt="SWE Benchmark Results">
+  <figcaption>Data from the SWE Benchmark that evaluates if LLMs can resolve GitHub Issues. Measures agentic reasoning.</figcaption>
+</figure>
 
 Orchestration is becoming the most valuable skill, i.e. systems thinking.
 
