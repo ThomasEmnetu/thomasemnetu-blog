@@ -2,7 +2,7 @@
 date: '2026-02-07T01:00:00-07:00'
 draft: false
 title: "I’ve been drinking the AI kool-aid…and I love it"
-tags: ["Multi-Agents", "Opinion", "Productivity", "Dev"]
+tags: ["AI", "Engineering", "Productivity", "Opinion"]
 categories: ["AI"]
 author: ["Thomas Emnetu"]
 showToc: true
@@ -93,7 +93,9 @@ How do we maintain quality when the barrier to shipping is this low?
 
 What happens when non-technical people can orchestrate complex systems without understanding what's happening under the hood?
 
-I used to believe the transition would be fairly gradual. Models getting better over years, causing workflows to evolve incrementally, giving folks time to adapt.
+For a period of time, I believed this transition would be fairly gradual. 
+
+Models getting better over years, causing workflows to evolve incrementally, giving folks time to adapt to the changes.
 
 But watching a multi-agent system go from nothing to a working product in an hour makes me realize the shift is more discontinuous than I expected.
 
