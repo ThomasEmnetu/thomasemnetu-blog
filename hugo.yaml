@@ -11,7 +11,7 @@ markup:
 
 params:
   images:
-    - images/Gradient-social-logo.png
+    - images/gradient-og.png
   label:
     text: "Gradient."
     icon: "images/temnetu-logo.svg"
