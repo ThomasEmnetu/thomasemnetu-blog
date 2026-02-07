@@ -1,5 +1,5 @@
 ---
-date: '2026-02-07T00:01:00-02:00'
+date: '2026-02-06T01:00:00-07:00'
 draft: false
 title: "I’ve been drinking the AI kool-aid…and I love it"
 tags: ["Multi-Agents", "Opinion", "Productivity", "Dev"]
