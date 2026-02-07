@@ -32,6 +32,8 @@ params:
   socialIcons:
     - name: "twitter"
       url: "https://x.com/Thomasemn"
+    - name: "github"
+      url: "https://github.com/ThomasEmnetu"
     - name: "linkedin"
       url: "https://linkedin.com/in/thomasemnetu"
     - name: "link"
