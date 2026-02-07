@@ -2,6 +2,7 @@ baseURL: https://thegradient.ink/
 languageCode: en-us
 title: Gradient.
 theme: ["PaperMod"]
+description: "Design thinker. AI tinkerer. Writing about the evolving relationship between humans, technology, and how we interact."
 
 markup:
   goldmark:
