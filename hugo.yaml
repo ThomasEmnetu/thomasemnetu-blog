@@ -10,6 +10,8 @@ markup:
       unsafe: true
 
 params:
+  assets:
+    favicon: "favicon.png"
   images:
     - images/gradient-og.png
   label:
