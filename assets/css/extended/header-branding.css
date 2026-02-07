@@ -1,0 +1,31 @@
+/* ===========================================
+   Header & Branding Styles
+   =========================================== */
+
+/* Stacked layout: title on top, logo centered beneath */
+.logo a {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 0px;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.logo img {
+    display: block;
+    margin-left: 3px;
+    margin-top: -12px;
+}
+
+/* Keep theme toggle aligned with top of header */
+.logo-switches {
+    align-self: flex-start;
+    margin-top: 0;
+}
+
+/* Theme toggle - scale to match larger logo */
+#theme-toggle {
+    transform: scale(1.1);
+    margin-left: -24px;
+}

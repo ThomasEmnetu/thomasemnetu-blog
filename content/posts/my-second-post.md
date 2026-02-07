@@ -5,9 +5,10 @@ title: "Why most college students won’t make it in big tech"
 tags: ["Tech", "College", "Internship", "Opinion"]
 categories: ["AI"]
 author: ["Thomas Emnetu"]
-showToc: false
+showToc: true
+TocOpen: false
 ---
-## Most ppl in college don’t deserve big tech roles
+## Most ppl in college don’t deserve big tech roles.
 
 That includes me. At least, the version of me I used to be.
 

@@ -3,9 +3,13 @@ languageCode: en-us
 title: Thomas' Blog
 theme: ["PaperMod"]
 params:
+  label:
+    text: "Gradient."
+    icon: "images/temnetu-logo.svg"
+    iconHeight: 55
   homeInfoParams:
     Title: "Thomas Emnetu: Design + AI"
-    Content: "Actively challenging my biases. Writing about the evolving relationship between humans, technology, and how we interact."
+    Content: "Design thinker. AI tinkerer. Writing about the evolving relationship between humans, technology, and how we interact."
 
   profileMode:
     enabled: false
@@ -23,5 +27,4 @@ params:
       url: "https://linkedin.com/in/thomasemnetu"
     - name: "link"
       url: "https://linktr.ee/uncutdesign"
-    - name: "email"
-      url: "mailto:thomasemnetu@icloud.com"
+    - mail: "mailto:thomasemnetu@icloud.com"

@@ -5,7 +5,8 @@ title: "AI is Decoupling From Ethics: Why should you care?"
 tags: ["AI", "Ethics", "Data", "Opinion"]
 categories: ["AI"]
 author: ["Thomas Emnetu"]
-showToc: false
+showToc: true
+TocOpen: false
 ---
 ## What's currently top of mind for me:
 
