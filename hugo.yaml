@@ -10,6 +10,8 @@ markup:
       unsafe: true
 
 params:
+  images:
+    - images/Gradient-social-logo.png
   label:
     text: "Gradient."
     icon: "images/temnetu-logo.svg"

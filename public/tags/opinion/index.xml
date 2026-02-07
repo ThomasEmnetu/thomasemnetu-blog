@@ -4,6 +4,11 @@
     <title>Opinion on Gradient.</title>
     <link>http://localhost:1313/tags/opinion/</link>
     <description>Recent content in Opinion on Gradient.</description>
+    <image>
+      <title>Gradient.</title>
+      <url>http://localhost:1313/images/Gradient-social-logo.png</url>
+      <link>http://localhost:1313/images/Gradient-social-logo.png</link>
+    </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Feb 2026 01:00:00 -0700</lastBuildDate>
