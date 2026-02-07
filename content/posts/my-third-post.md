@@ -100,7 +100,11 @@ At some point, you have to reflect on whether you are adapting or resisting.
 
 Developers used punch cards to program from the 1940s-1970s.
 
-![Punch Card Computer](/images/punchcard-computer.jpeg)
+<figure>
+  <img src="/images/punchcard-computer.jpeg" alt="Punch Card Computer">
+  <figcaption>IBM keypunch machine used to punch holes into paper cards for early computer data entry and programming</figcaption>
+</figure>
+
 
 When CLIs and GUIs became standard, their expertise didn't disappear. 
 
