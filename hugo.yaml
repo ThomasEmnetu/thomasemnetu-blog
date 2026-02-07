@@ -1,6 +1,6 @@
-baseURL: https://thomasemnetu.ink/
+baseURL: https://thegradient.ink/
 languageCode: en-us
-title: Thomas' Blog
+title: Gradient.
 theme: ["PaperMod"]
 params:
   label:
