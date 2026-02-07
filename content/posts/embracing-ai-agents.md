@@ -93,7 +93,7 @@ How do we maintain quality when the barrier to shipping is this low?
 
 What happens when non-technical people can orchestrate complex systems without understanding what's happening under the hood?
 
-I used to believe the transition would be fairly gradual. Models getting better over years and workflows evolve incrementally, giving folks time to adapt.
+I used to believe the transition would be fairly gradual. Models getting better over years, causing workflows to evolve incrementally, giving folks time to adapt.
 
 But watching a multi-agent system go from nothing to a working product in an hour makes me realize the shift is more discontinuous than I expected.
 
